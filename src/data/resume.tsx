@@ -10,12 +10,13 @@ export const DATA = {
   description:
     "I'm a passionate Computer Science student who loves building real-world projects that solve practical problems.",
   summary:
-    "I’m a recent Computer Science graduate from SSM Institute of Engineering and Technology, passionate about building real-world projects and developer tools. With experience in React Native from my internship at Xrosstalk and conducting workshops on AI-driven tools like ChatGPT and DALL-E, my goal is to create impactful solutions that enhance everyday life and empower developers to build beyond limits.",
+    "I’m a cs graduate who is obsessed with PC but works in MacBook. I love to build realtime solution and also spends my time leisure time watching Japanese anime or American cartoons",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
     "React Native",
     "Next.js",
+    "Javascript",
     "Typescript",
     "Node.js",
     "RESTful API",
@@ -23,7 +24,7 @@ export const DATA = {
     "Python",
     "Django",
     "Flask",
-    "MySQl",
+    "MySQL",
     "MongoDB",
     "Linux",
     "Postman",
