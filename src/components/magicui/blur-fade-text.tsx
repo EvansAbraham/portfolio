@@ -39,21 +39,21 @@ const BlurFadeText = ({
         <AnimatePresence>
           {characters.map((char, i) => (
             <motion.span
-              key={i}
-              initial="hidden"
-              animate="visible"
-              exit="hidden"
-              variants={combinedVariants}
-              transition={{
-                yoyo: Infinity,
-                delay: delay + i * characterDelay,
-                ease: "easeOut",
-              }}
-              className={cn("inline-block", className)}
-              style={{ width: char.trim() === "" ? "0.2em" : "auto" }}
-            >
-              {char}
-            </motion.span>
+            key={i}
+            initial="hidden"
+            animate="visible"
+            exit="hidden"
+            variants={combinedVariants}
+            transition={{
+              delay: delay + i * characterDelay,
+              ease: "easeOut",
+            }}
+            className={cn("inline-block", className)}
+            style={{ width: char.trim() === "" ? "0.2em" : "auto" } as any} // Use 'as any' to bypass type checking
+          >
+            {char}
+          </motion.span>
+          
           ))}
         </AnimatePresence>
       </div>
