@@ -73,7 +73,7 @@ export const DATA = {
   work: [
     {
       company: "Xrosstalk",
-      href: "https://atomic.finance",
+      href: "https://www.xrosstalk.com/",
       badges: [],
       location: "Remote",
       title: "React Native Intern",
@@ -97,7 +97,7 @@ export const DATA = {
   projects: [
     {
       title: "Syncsphere",
-      href:"https://syncsphereai.vercel.app/",
+      href: "https://chatcollect.com",
       dates: "Sep 2024 - Sep 2024",
       active: true,
       description:
