@@ -4,8 +4,8 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Evans Abraham",
   initials: "J",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
+  url: "https://github.com/EvansAbraham",
+  location: "Madurai, Tamil Nadu",
   locationLink: "https://maps.app.goo.gl/yDth4zFE8LgPte9NA",
   description:
     "I'm a passionate Computer Science student who loves building real-world projects that solve practical problems.",
@@ -97,7 +97,7 @@ export const DATA = {
   projects: [
     {
       title: "Syncsphere",
-      href: "https://chatcollect.com",
+      href: "https://syncsphereai.vercel.app/",
       dates: "Sep 2024 - Sep 2024",
       active: true,
       description:
