@@ -96,7 +96,7 @@ export const DATA = {
   projects: [
     {
       title: "Syncsphere",
-      href: "https://chatcollect.com",
+      href:"https://syncsphereai.vercel.app/",
       dates: "Sep 2024 - Sep 2024",
       active: true,
       description:
