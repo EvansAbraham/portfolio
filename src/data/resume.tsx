@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "I'm a passionate Computer Science student who loves building real-world projects that solve practical problems.",
   summary:
-    "I’m a cs graduate who is love PC but works in MacBook. I love to build realtime solution and also spends my leisure time watching Japanese anime or American cartoons.",
+    "I’m a cs graduate who love PC but works in MacBook. I love to build realtime solution and also spends my leisure time watching Japanese anime or American cartoons.",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
