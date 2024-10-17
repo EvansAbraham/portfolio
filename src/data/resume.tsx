@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "I'm a passionate Computer Science student who loves building real-world projects that solve practical problems.",
   summary:
-    "I’m a cs graduate who is obsessed with PC but works in MacBook. I love to build realtime solution and also spends my time leisure time watching Japanese anime or American cartoons",
+    "I’m a cs graduate who is obsessed with PC but works in MacBook. I love to build realtime solution and also spends my time leisure time watching Japanese anime or American cartoons.",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
@@ -154,7 +154,7 @@ export const DATA = {
     },
     {
       title: "Blog API",
-      href: "hhttps://github.com/EvansAbraham/REST-API",
+      href: "https://github.com/EvansAbraham/REST-API",
       dates: "July 2024 - July 2024",
       active: true,
       description:
