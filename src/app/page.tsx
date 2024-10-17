@@ -161,7 +161,7 @@ export default function Page() {
                   Workshop
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  I like teaching others
+                  I like building stuffs and teaching others
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 During my time in college, I conducted a workshop during <br/> Peer-to-Peer Learning Program, where I taught participants how to craft effective AI prompts. 
