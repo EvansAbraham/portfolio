@@ -8,9 +8,9 @@ export const DATA = {
   location: "Madurai, Tamil Nadu",
   locationLink: "https://maps.app.goo.gl/yDth4zFE8LgPte9NA",
   description:
-    "I'm a passionate Computer Science student who loves building real-world projects that solve practical problems.",
+    "I\'m a passionate Computer Science student who loves building real-world projects that solve practical problems.",
   summary:
-    "I’m a cs graduate who love PC but works in MacBook. I love to build realtime solution and also spends my leisure time watching Japanese anime or American cartoons.",
+    "I\’m a cs graduate who love PC but works in MacBook. I love to build realtime solution and also spends my leisure time watching Japanese anime or American cartoons.",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
@@ -21,6 +21,9 @@ export const DATA = {
     "Node.js",
     "RESTful API",
     "Tailwind CSS",
+    "Git",
+    "GitHub",
+    "Gitlab",
     "Python",
     "Django",
     "Flask",
@@ -37,34 +40,29 @@ export const DATA = {
   ],
   contact: {
     email: "evansabrahamj@gmail.com",
-    tel: "+919344323215",
     social: {
       GitHub: {
         name: "GitHub",
         url: "https://github.com/EvansAbraham",
         icon: Icons.github,
-
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/evansabraham/",
         icon: Icons.linkedin,
-
         navbar: true,
       },
       X: {
         name: "X",
         url: "https://x.com/EvansAbraham_J",
         icon: Icons.x,
-
         navbar: true,
       },
       email: {
         name: "Send Email",
         url: "mailto:evansabrahamj@gmail.com",
         icon: Icons.email,
-
         navbar: true,
       },
     },
