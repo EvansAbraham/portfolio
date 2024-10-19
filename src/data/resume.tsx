@@ -96,6 +96,69 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Gitlab-S3-CICD Pipeline",
+      href: "https://gitlab.com/EvansAbraham/gitlab-cicd-pipeline-awss3.git",
+      dates: "Oct 2024 - Oct 2024",
+      active: true,
+      description:
+        "Configured a CI/CD pipeline using GitLab CI to automate the deployment of a Vite/React boilerplate application to AWS S3, with automated testing and builds for error-free production updates.",
+      technologies: [
+        "React",
+        "Vite",
+        "Node.js",
+        "npm",
+        "Javascript",
+        "GitLab CI",
+        "AWS S3",
+      ],
+      links: [
+        {
+          type: "Boilerplate Site",
+          href: "http://gitlab-cicd-bucket-workspace.s3-website.ap-south-1.amazonaws.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://gitlab.com/EvansAbraham/gitlab-cicd-pipeline-awss3.git",
+          icon: <Icons.gitlab className="size-3" />,
+        },
+      ],
+      image: "https://i.postimg.cc/66DHsg6k/gitlab-s3.png",
+      video:
+        "",
+    },
+    {
+      title: "Gitlab-Vercel-CICD Pipeline",
+      href: "https://gitlab.com/EvansAbraham/netlify-gitlab-cicd-pipeline.git",
+      dates: "Oct 2024 - Oct 2024",
+      active: true,
+      description:
+        "Configured a CI/CD pipeline using GitLab CI to automate the deployment of a Next.js boilerplate application to Vercel, with automated testing and builds for error-free production updates.",
+      technologies: [
+        "Next.js",
+        "Node.js",
+        "npm",
+        "Typescript",
+        "GitLab CI",
+        "Vercel",
+      ],
+      links: [
+        {
+          type: "Boilerplate Site",
+          href: "https://syncsphereai.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://gitlab.com/EvansAbraham/netlify-gitlab-cicd-pipeline.git",
+          icon: <Icons.gitlab className="size-3" />,
+        },
+      ],
+      image: "https://i.postimg.cc/xdsGsmBf/vercel-gitlab.png",
+      video:
+        "",
+    },
+    {
       title: "Syncsphere",
       href: "https://syncsphereai.vercel.app/",
       dates: "Sep 2024 - Sep 2024",
