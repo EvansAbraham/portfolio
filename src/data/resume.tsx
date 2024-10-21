@@ -94,6 +94,31 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "GitHub Actions - AWS EC2 CICD API Pipeline",
+      href: "https://github.com/YourUsername/users-api",
+      dates: "Oct 2024 - Oct 2024",
+      active: true,
+      description:
+        "Automated the deployment of a Node.js API to AWS EC2 using GitHub Actions CI/CD pipeline, handling builds, tests, and seamless production updates for a CRUD API with local JSON file storage.",
+      technologies: [
+        "Node.js",
+        "Express.js",
+        "GitHub Actions",
+        "AWS EC2",
+        "JavaScript",
+        "JSON"
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/YourUsername/users-api",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "https://i.postimg.cc/FH95FRDd/Project-Image.png",
+      video: "",
+    },    
+    {
       title: "Gitlab-S3-CICD Pipeline",
       href: "https://gitlab.com/EvansAbraham/gitlab-cicd-pipeline-awss3.git",
       dates: "Oct 2024 - Oct 2024",
