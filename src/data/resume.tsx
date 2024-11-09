@@ -168,7 +168,7 @@ export const DATA = {
       links: [
         {
           type: "Boilerplate Site",
-          href: "https://vercel.com/abrahamj/cicd-pipeline-site",
+          href: "https://cicd-pipeline-site.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
