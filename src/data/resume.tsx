@@ -94,6 +94,33 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Xplore - Zentry inspired game promotional website.",
+      href: "https://github.com/YourUsername/users-api",
+      dates: "April 2025 - May 2025",
+      active: true,
+      description:
+        "Built an animated landing experience inspired by Zentry using React, GSAP, and Tailwind. Highlights include responsive design, video transitions, scroll-triggered morphing animations, and modular components.",
+      technologies: [
+        "React",
+        "Vite",
+        "GSAP"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://xplore-abrahamj.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/EvansAbraham/xplore",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "https://i.postimg.cc/T3kFXSZd/Screen-Shot-Tool-20250511125325.png",
+      video: "",
+    },
+    {
       title: "GitHub Actions - AWS EC2 CICD API Pipeline",
       href: "https://github.com/YourUsername/users-api",
       dates: "Oct 2024 - Oct 2024",
