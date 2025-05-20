@@ -36,7 +36,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    { href: "https://medium.com/@evansabrahamj", icon: Icons.medium, label: "Medium" },
   ],
   contact: {
     email: "evansabrahamj@gmail.com",
